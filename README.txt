@@ -31,4 +31,4 @@ Check your PHP version. __PHP 5 >= PHP 5.3.0 or  Required__
 
 == Screenshots ==
 
-1. webdesignby-recaptch-ss1.(png|jpg|jpeg|gif). 
+1. wp-admin with Google reCaptcha
