@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Webdesignby Recaptcha
-Plugin URI: http://www.webdesignby.com/programming/wordpress-nocaptcha-recaptcha-plugin
+Plugin URI: http://www.webdesignby.com/programming/wordpress-nocaptcha-recaptcha-plugin/
 Description: Add reCAPTCHA to Wordpress default login page.
 Author: webdesignby.com
 Version: 1.1

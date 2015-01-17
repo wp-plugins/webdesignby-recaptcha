@@ -27,7 +27,7 @@ __PHP 5 >= PHP 5.3.0 or  Required__
 
 = I see the following message after installing the plugin: Parse error: syntax error, unexpected T_STRING in /wordpress/wp-content/plugins/webdesignby-recaptcha/webdesignby-recaptcha.php on line 11 =
 
-Check your PHP version. __PHP 5 >= PHP 5.3.0 or  Required__
+Check your PHP version. __PHP 5 >= PHP 5.3.0 Required__
 
 == Screenshots ==
 
