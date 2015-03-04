@@ -29,6 +29,7 @@ if( ! class_exists('Webdesignby\OptionsPage')) {
                         echo $message;
                     ?>
                     <h1><?php echo __('reCaptcha Settings', 'webdesignby-recaptcha'); ?></h1>
+                     <p>Generate a new site key and secret at:<br /><strong><a href="https://www.google.com/recaptcha/admin" target="_blank">https://www.google.com/recaptcha/admin</a></strong></p>
                     <form name="form" action="" method="post">
                     <?php echo wp_nonce_field('process'); ?>
                     <table class="form-table">
